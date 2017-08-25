@@ -1,6 +1,6 @@
 node {
     stage('Build') {
-        echo 'Building....'
+        echo 'Building....(after commit)'
     }
     stage('Test') {
         echo 'Building....'
